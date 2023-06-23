@@ -1,0 +1,9 @@
+create::app
+
+	appname= 'PandaSDK'
+	title= 'PandaSDK for PandaVisual 2023 Community Edition'
+	font= 'Times New Roman'
+	savedata= 292-232
+
+clone-app-resave:
+write('Error00');
